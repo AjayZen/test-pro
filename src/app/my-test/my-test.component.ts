@@ -26,7 +26,7 @@ this.cd.detectChanges();
 
 ngOnInit()
 {
-
+this.arr.push(7);
 
 }
 
