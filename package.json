@@ -8,7 +8,8 @@
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "typescript-tsdk": "C:/ajay/Angur4Projects/TranlateEx/node_modules/typescript/lib"
   },
   "private": true,
   "dependencies": {
@@ -28,7 +29,7 @@
   "devDependencies": {
     "@angular/cli": "~1.7.2",
     "@angular/compiler-cli": "^5.2.0",
-    "@angular/language-service": "^5.2.0",
+    "@angular/language-service": "^5.2.10",
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
@@ -43,6 +44,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1",
-    "typescript": "~2.5.3"
+    "typescript": "^2.5.3"
   }
 }
